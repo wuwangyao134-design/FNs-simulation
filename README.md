@@ -15,7 +15,7 @@ This repository provides the MATLAB implementation used in our paper for simulat
 
 | File | Description |
 |------|-------------|
-| `S_slot.m` | Main simulation script |
+| `main.m` | Main simulation script |
 | `EvaluateParticle.m` | Objective function evaluator |
 | `FindAllFronts.m`, `FindNonDominated.m` | Pareto front computation |
 | `calculateHV.m`, `calculateGD.m`, `calculateIGD.m` | Metric calculation |
